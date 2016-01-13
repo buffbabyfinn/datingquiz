@@ -1,0 +1,24 @@
+.jumbotron {
+  text-align: center;
+  border-radius: 20px !important;
+}
+
+.test-contain {
+  display: none;
+}
+
+.answers-contain {
+  display: none;
+}
+
+.answer1, .answer2, .answer3, .answer4 {
+  display: none;
+}
+
+img {
+  width: 600px;
+}
+
+body {
+  background-color: #EEB4B4
+}
